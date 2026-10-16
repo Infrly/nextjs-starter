@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-starter",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A minimal Next.js app that deploys on Infrly with no configuration.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "next": "^15.5.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
